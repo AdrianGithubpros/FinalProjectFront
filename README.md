@@ -1,3 +1,2 @@
 # FinalProjectFront
-
-https://github.com/AdrianGithubpros/FinalProjectFront
+https://github.com/AdrianGithubpros/FinalProject
